@@ -49,10 +49,21 @@ h4 {
 	text-decoration-color: tomato;
 	font-size: larger;
 	font-style: oblique;
+	border-style: groove;
+	border-radius: 10px;
 }
 
 #intro {
 	text-align: right;
 	background-color: seagreen;
 	text-align: center;
+}
+
+#oben {
+	border-top: red;
+}
+
+#border {
+	border-style: groove;
+	border-radius: 10px;
 }
